@@ -129,7 +129,7 @@ if (isset($_POST['decrypt'])) {
             </div>
 
             <footer class="pt-3 mt-4 text-muted border-top">
-                &copy; Muhamad Ahmadin | 190511024 | K1 | Universitas Muhammadiyah Cirebon | 2022
+                &copy; Muhamad Ahmadin | 190511024 | K1 | Universitas Muhammadiyah Cirebon | 2022 | <a href="https://github.com/MuhamadAhmadin/Encrypt-Decrypt-Cipher-with-Key">Source Code</a>
             </footer>
         </div>
     </main>
